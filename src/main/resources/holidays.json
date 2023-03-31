@@ -1,0 +1,62 @@
+[
+  {
+    "holidayName": "New Year's Day",
+    "month": "JANUARY",
+    "day": 1
+  },
+  {
+    "holidayName": "Independence Day",
+    "month": "FEBRUARY",
+    "day": 24
+  },
+  {
+    "holidayName": "Good Friday",
+    "month": "APRIL",
+    "day": 14
+  },
+  {
+    "holidayName": "Easter Sunday",
+    "month": "APRIL",
+    "day": 16
+  },
+  {
+    "holidayName": "Spring Day",
+    "month": "MAY",
+    "day": 1
+  },
+  {
+    "holidayName": "Whit Sunday",
+    "month": "JUNE",
+    "day": 4
+  },
+  {
+    "holidayName": "Victory Day",
+    "month": "JUNE",
+    "day": 23
+  },
+  {
+    "holidayName": "Midsummer's Day",
+    "month": "JUNE",
+    "day": 24
+  },
+  {
+    "holidayName": "Day of Restoration of Independence",
+    "month": "AUGUST",
+    "day": 20
+  },
+  {
+    "holidayName": "Christmas Eve",
+    "month": "DECEMBER",
+    "day": 24
+  },
+  {
+    "holidayName": "Christmas Day",
+    "month": "DECEMBER",
+    "day": 25
+  },
+  {
+    "holidayName": "Second Day of Christmas",
+    "month": "DECEMBER",
+    "day": 26
+  }
+]
